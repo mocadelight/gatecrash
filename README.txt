@@ -1,2 +1,1 @@
 # gatecrash
-Some text.
